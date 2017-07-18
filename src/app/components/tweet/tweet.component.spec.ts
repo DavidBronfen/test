@@ -1,32 +1,35 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
-import { NO_ERRORS_SCHEMA } from '@angular/core';
+import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 
-import { UserComponent } from './user.component';
+import { TweetComponent } from './tweet.component';
 
-describe('UserComponent', () => {
-  let component: UserComponent;
-  let fixture: ComponentFixture<UserComponent>;
+describe('TweetComponent', () => {
+  let component: TweetComponent;
+  let fixture: ComponentFixture<TweetComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
       declarations: [
-        UserComponent
+        TweetComponent
       ],
       schemas: [
-        NO_ERRORS_SCHEMA
+        CUSTOM_ELEMENTS_SCHEMA
       ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(UserComponent);
+    fixture = TestBed.createComponent(TweetComponent);
     component = fixture.componentInstance;
-    component.user = {
+
+    component.tweet = {
       'name': 'Nir Galon',
       'screen_name': 'nirgalon',
       'profile_image_url': 'https://api.adorable.io/avatars/285/nir.png',
+      'text': 'And now I know just what it is It\'s got disease and it\'s got my head It always runs where I hide'
     };
+
     fixture.detectChanges();
   });
 

@@ -1,16 +1,16 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 
-import { UseListComponent } from './use-list.component';
+import { UsersListComponent } from './users-list.component';
 
-describe('UseListComponent', () => {
-  let component: UseListComponent;
-  let fixture: ComponentFixture<UseListComponent>;
+describe('UsersListComponent', () => {
+  let component: UsersListComponent;
+  let fixture: ComponentFixture<UsersListComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
       declarations: [
-        UseListComponent
+        UsersListComponent
       ],
       schemas: [
         CUSTOM_ELEMENTS_SCHEMA
@@ -20,7 +20,7 @@ describe('UseListComponent', () => {
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(UseListComponent);
+    fixture = TestBed.createComponent(UsersListComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
