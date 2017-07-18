@@ -1,0 +1,11 @@
+<div *ngIf="user.profile_image_url; else placeholder">
+  <img md-list-avatar src="{{user.profile_image_url}}" alt="{{user.name}}s profile image">
+</div>
+
+<ng-template #placeholder>
+  <md-icon md-list-icon>account_circle</md-icon>
+</ng-template>
+
+<h4 md-line>{{user.name}}</h4>
+<p md-line> {{user.screen_name}} </p>
+<md-divider></md-divider>

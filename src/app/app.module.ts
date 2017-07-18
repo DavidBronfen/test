@@ -9,12 +9,16 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { HeroComponent } from './components/hero/hero.component';
+import { UseListComponent } from './components/use-list/use-list.component';
+import { UserComponent } from './components/user/user.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-    HeroComponent
+    HeroComponent,
+    UseListComponent,
+    UserComponent
   ],
   imports: [
     BrowserModule,
