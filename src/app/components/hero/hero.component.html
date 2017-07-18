@@ -1,0 +1,15 @@
+<h1>{{title}}</h1>
+
+<div class="search-container">
+  <md-input-container color="primary">
+    <input mdInput placeholder="Search for tweeter user" value="">
+  </md-input-container>
+
+  <a md-raised-button color="primary" class="search-button" routerLink=".">
+    <md-icon color="accent">search</md-icon>
+  </a>
+
+  <div *ngIf="false" class="search-result">
+    <span *ngFor="let user of users">{{user}}</span>
+  </div>
+</div>
