@@ -9,7 +9,13 @@
     <md-icon color="accent">search</md-icon>
   </a>
 
-  <div *ngIf="false" class="search-result">
-    <span *ngFor="let user of users">{{user}}</span>
+  <div *ngIf="true" class="search-result">
+    <md-list-item *ngFor="let user of users">
+      <a>
+        <p>{{user}}</p>
+      </a>
+      <md-divider></md-divider>
+    </md-list-item>
   </div>
+
 </div>

@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class HeroComponent implements OnInit {
 
   title = 'Welcome to FED Test';
-  users = ['Nir', 'David', 'Roy'];
+  users = ['Nir', 'David', 'Roy', 'Nir', 'David', 'Roy','Nir', 'David', 'Roy', 'Nir'];
 
   constructor() { }
 
