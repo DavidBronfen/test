@@ -24,10 +24,12 @@ describe('TweetComponent', () => {
     component = fixture.componentInstance;
 
     component.tweet = {
-      'name': 'Nir Galon',
-      'screen_name': 'nirgalon',
-      'profile_image_url': 'https://api.adorable.io/avatars/285/nir.png',
-      'text': 'And now I know just what it is It\'s got disease and it\'s got my head It always runs where I hide'
+      'text': 'And now I know just what it is It\'s got disease and it\'s got my head It always runs where I hide',
+      'user': {
+        'name': 'Nir Galon',
+        'screen_name': 'nirgalon',
+        'profile_image_url': 'https://api.adorable.io/avatars/285/nir.png',
+      },
     };
 
     fixture.detectChanges();

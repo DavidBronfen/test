@@ -1,4 +1,12 @@
 import { Component, OnInit } from '@angular/core';
+import { Observable } from 'rxjs/Observable';
+import { Store } from '@ngrx/store';
+
+import { IUser } from '../../models/user';
+import { UsersListService } from '../../services/users-list.service';
+
+import * as usersListAction from '../../actions/users-list';
+import * as fromRoot from '../../reducers';
 
 @Component({
   selector: 'app-users-list',
@@ -7,27 +15,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class UsersListComponent implements OnInit {
 
-  users = [
-    {
-      'name': 'Nir Galon',
-      'screen_name': 'nirgalon',
-      'profile_image_url': 'https://api.adorable.io/avatars/285/nir.png',
-    },
-    {
-      'name': 'David Bronfen',
-      'screen_name': 'davidbronfen',
-      'profile_image_url': 'https://api.adorable.io/avatars/285/david.png',
-    },
-    {
-      'name': 'Roy Segal',
-      'screen_name': 'roysegal',
-      'profile_image_url': 'https://api.adorable.io/avatars/285/roy.png',
-    }
-]
+  public users$: Observable<IUser[]>;
+  private errorMessage: string;
 
-  constructor() { }
+  constructor(private store: Store<fromRoot.State>) {
+      this.users$ = this.store.select(fromRoot.getUsersListState);
+  }
 
   ngOnInit() {
+    this.store.dispatch(new usersListAction.LoadUsersListAction())
   }
 
 }
