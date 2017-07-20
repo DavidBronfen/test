@@ -31,7 +31,7 @@
     "member-access": false,
     "member-ordering": [
       true,
-      "static-before-instance",
+      "static-before-instance"
     ],
     "no-arg": true,
     "no-bitwise": true,
