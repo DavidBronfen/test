@@ -5,18 +5,18 @@ export const LOAD_TWEETS_LIST =  '[TweetsList] Load TweetsList';
 export const LOAD_TWEETS_LIST_SUCCESS = '[TweetsList] Load TweetsList Success';
 
 
-export class LoadUsersListAction implements Action {
+export class LoadTweetsListAction implements Action {
   readonly type = LOAD_TWEETS_LIST;
 
   constructor() { }
 }
 
-export class LoadUsersListSuccessAction implements Action {
+export class LoadTweetsListSuccessAction implements Action {
   readonly type = LOAD_TWEETS_LIST_SUCCESS;
 
-  constructor(public payload: IUser[]) { }
+  constructor(public payload: ITweet[]) { }
 }
 
 export type Actions
-  = LoadUsersListAction
-  | LoadUsersListSuccessAction;
+  = LoadTweetsListAction
+  | LoadTweetsListSuccessAction;
