@@ -12,10 +12,12 @@ import { reducer } from '../../reducers';
 
 const TWEET_OBJECT: ITweet[] = [
   {
-    'name': 'Nir Galon',
-    'screen_name': 'nirgalon',
-    'profile_image_url': 'https://api.adorable.io/avatars/285/nir.png',
-    'text': 'I\'ve had these jeans since I was born And now they\'re ripped and now they\'re torn And all my friends have skateboards'
+    'text': 'I\'ve had these jeans since I was born And now they\'re ripped and now they\'re torn And all my friends have skateboards',
+    'user': {
+      'name': 'Nir Galon',
+      'screen_name': 'nirgalon',
+      'profile_image_url': 'https://api.adorable.io/avatars/285/nir.png',
+    }
   },
 ];
 

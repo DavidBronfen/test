@@ -10,10 +10,12 @@ describe('reducers', () => {
         profile_image_url: ''
       }],
       tweets: [{
-        name: '',
-        screen_name: '',
-        profile_image_url: '',
         text: '',
+        user: {
+          name: '',
+          screen_name: '',
+          profile_image_url: '',
+        }
       }]
     },  {
       type: '[UsersList] Load UsersList'
@@ -25,10 +27,12 @@ describe('reducers', () => {
         profile_image_url: ''
       }],
       tweets: [{
-        name: '',
-        screen_name: '',
-        profile_image_url: '',
         text: '',
+        user: {
+          name: '',
+          screen_name: '',
+          profile_image_url: '',
+        }
       }]
     });
   });

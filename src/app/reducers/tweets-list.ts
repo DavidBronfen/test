@@ -4,10 +4,12 @@ import * as tweetsList from '../actions/tweets-list';
 export type State = ITweet[];
 
 const initialState: State = [{
-  name: '',
-  screen_name: '',
-  profile_image_url: '',
   text: '',
+  user: {
+    name: '',
+    screen_name: '',
+    profile_image_url: '',
+  }
 }];
 
 export function reducer(state = initialState, action: tweetsList.Actions): State {
