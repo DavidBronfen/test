@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Http, Response } from '@angular/http';
+import { Jsonp, Response } from '@angular/http';
 import { Observable } from 'rxjs/Observable';
 import 'rxjs/add/operator/catch';
 import 'rxjs/add/operator/do';
@@ -12,10 +12,10 @@ export class UsersListService {
 
   private _usersURL = 'data/users.json';
 
-  constructor(private _http: Http) { }
+  constructor(private _jsonp: Jsonp) { }
 
   getUsers(): Observable<IUser[]> {
-    return this._http.get(this._usersURL)
+    return this._jsonp.get('https://api.twitter.com/1.1/users/search.json?q=Twitter%20API&page=1&count=3')
     .map((response: Response) => <IUser[]> response.json())
     .do(response => console.log(response))
     .catch(this.handleError);
