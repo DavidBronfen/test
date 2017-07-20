@@ -22,6 +22,8 @@ import { TweetComponent } from './components/tweet/tweet.component';
 import { UsersListService } from './services/users-list.service';
 
 import { UsersListEffects } from './effects/users-list';
+import { TweetsListEffects } from './effects/tweets-list';
+import { TweetsListService } from './services/tweets-list.service';
 
 @NgModule({
   declarations: [
@@ -41,8 +43,12 @@ import { UsersListEffects } from './effects/users-list';
     StoreModule.provideStore(reducer),
     StoreDevtoolsModule.instrumentOnlyWithExtension(),
     EffectsModule.run(UsersListEffects),
+    EffectsModule.run(TweetsListEffects),
   ],
-  providers: [UsersListService],
+  providers: [
+    UsersListService,
+    TweetsListService
+  ],
   bootstrap: [ AppComponent ]
 })
 export class AppModule { }

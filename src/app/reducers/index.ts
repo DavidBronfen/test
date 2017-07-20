@@ -37,6 +37,7 @@ import { combineReducers } from '@ngrx/store';
  * notation packages up all of the exports into a single object.
  */
 import * as fromUsersList from './users-list';
+import * as fromTweetsList from './tweets-list';
 
 
 /**
@@ -45,6 +46,7 @@ import * as fromUsersList from './users-list';
  */
 export interface State {
   users: fromUsersList.State;
+  tweets: fromTweetsList.State;
 }
 
 
@@ -57,6 +59,7 @@ export interface State {
  */
 const reducers = {
   users: fromUsersList.reducer,
+  tweets: fromTweetsList.reducer,
 };
 
 const developmentReducer: ActionReducer<State> = compose(storeFreeze, combineReducers)(reducers);
@@ -87,3 +90,4 @@ export function reducer(state: any, action: any) {
  * ```
  */
 export const getUsersListState = (state: State) => state.users;
+export const getTweetsListState = (state: State) => state.tweets;

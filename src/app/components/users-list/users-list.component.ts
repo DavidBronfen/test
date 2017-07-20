@@ -3,7 +3,7 @@ import { Observable } from 'rxjs/Observable';
 import { Store } from '@ngrx/store';
 
 import { IUser } from '../../models/user';
-import { UsersListService } from '../../services/users-list.service'
+import { UsersListService } from '../../services/users-list.service';
 
 import * as usersListAction from '../../actions/users-list';
 import * as fromRoot from '../../reducers';

@@ -1,5 +1,5 @@
 <div class="user-tweets">
-  <md-card class="tweet-card" *ngFor="let tweet of tweets">
+  <md-card class="tweet-card" *ngFor="let tweet of tweets$ | async">
     <app-tweet [tweet]=tweet></app-tweet>
   </md-card>
 
