@@ -1,0 +1,2741 @@
+[
+	{
+		"id": 40139016,
+		"id_str": "40139016",
+		"name": "David Bowie Official",
+		"screen_name": "DavidBowieReal",
+		"location": "",
+		"description": "Carry The News: The OFFICIAL David Bowie twitter feed with general announcements and promotions.",
+		"url": "https://t.co/hNwHp9lB59",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "https://t.co/hNwHp9lB59",
+						"expanded_url": "http://www.davidbowie.com",
+						"display_url": "davidbowie.com",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 910908,
+		"friends_count": 345,
+		"listed_count": 5196,
+		"created_at": "Fri May 15 01:14:08 +0000 2009",
+		"favourites_count": 2,
+		"utc_offset": 3600,
+		"time_zone": "London",
+		"geo_enabled": false,
+		"verified": true,
+		"statuses_count": 1512,
+		"lang": "en",
+		"status": {
+			"created_at": "Wed Jul 12 08:17:36 +0000 2017",
+			"id": 885050494997209100,
+			"id_str": "885050494997209088",
+			"text": "DAVID BOWIE - ‘A NEW CAREER IN A NEW TOWN (1977 – 1982)’ - Go here for further details and full tracklistings:… https://t.co/ewaW4RTT7K",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ewaW4RTT7K",
+						"expanded_url": "https://twitter.com/i/web/status/885050494997209088",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 549,
+			"favorite_count": 1324,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "642D8B",
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/535394757250277376/D7sC_RQG.jpeg",
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/535394757250277376/D7sC_RQG.jpeg",
+		"profile_background_tile": true,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/819190953944743941/MW3-KfBl_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/819190953944743941/MW3-KfBl_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/40139016/1499848209",
+		"profile_link_color": "9266CC",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "7AC3EE",
+		"profile_text_color": "3D1957",
+		"profile_use_background_image": true,
+		"has_extended_profile": true,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 13524182,
+		"id_str": "13524182",
+		"name": "Dave Weigel",
+		"screen_name": "daveweigel",
+		"location": "Washington, D.C.",
+		"description": "Covering politics for @washingtonpost. daveweigel@gmail.com, 302-507-6806. Buy my book: https://t.co/qbUTkz3CBR (Avatar by @damnyouregis)",
+		"url": "https://t.co/fH66dGGX87",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "https://t.co/fH66dGGX87",
+						"expanded_url": "http://www.daveweigel.com",
+						"display_url": "daveweigel.com",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": [
+					{
+						"url": "https://t.co/qbUTkz3CBR",
+						"expanded_url": "http://tinyurl.com/h7wyg2c",
+						"display_url": "tinyurl.com/h7wyg2c",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			}
+		},
+		"protected": false,
+		"followers_count": 327052,
+		"friends_count": 10246,
+		"listed_count": 10839,
+		"created_at": "Fri Feb 15 17:58:23 +0000 2008",
+		"favourites_count": 3025,
+		"utc_offset": -14400,
+		"time_zone": "Eastern Time (US & Canada)",
+		"geo_enabled": false,
+		"verified": true,
+		"statuses_count": 168638,
+		"lang": "en",
+		"status": {
+			"created_at": "Wed Jul 19 03:16:11 +0000 2017",
+			"id": 887511359113625600,
+			"id_str": "887511359113625601",
+			"text": "RT @AmyEGardner: WaPo Team Health. Gold. Part One: @kelsey_snell @WaPoSean @costareports @edatpost @eilperin @mikedebonis",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AmyEGardner",
+						"name": "Amy Gardner",
+						"id": 26754354,
+						"id_str": "26754354",
+						"indices": [
+							3,
+							15
+						]
+					},
+					{
+						"screen_name": "kelsey_snell",
+						"name": "Kelsey Snell",
+						"id": 82151660,
+						"id_str": "82151660",
+						"indices": [
+							51,
+							64
+						]
+					},
+					{
+						"screen_name": "WaPoSean",
+						"name": "Sean Sullivan",
+						"id": 169586280,
+						"id_str": "169586280",
+						"indices": [
+							65,
+							74
+						]
+					},
+					{
+						"screen_name": "costareports",
+						"name": "Robert Costa",
+						"id": 86129724,
+						"id_str": "86129724",
+						"indices": [
+							75,
+							88
+						]
+					},
+					{
+						"screen_name": "edatpost",
+						"name": "Ed O'Keefe",
+						"id": 16930125,
+						"id_str": "16930125",
+						"indices": [
+							89,
+							98
+						]
+					},
+					{
+						"screen_name": "eilperin",
+						"name": "Juliet Eilperin",
+						"id": 118747545,
+						"id_str": "118747545",
+						"indices": [
+							99,
+							108
+						]
+					},
+					{
+						"screen_name": "mikedebonis",
+						"name": "Mike DeBonis",
+						"id": 16753660,
+						"id_str": "16753660",
+						"indices": [
+							109,
+							121
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Wed Jul 19 02:06:17 +0000 2017",
+				"id": 887493764985573400,
+				"id_str": "887493764985573376",
+				"text": "WaPo Team Health. Gold. Part One: @kelsey_snell @WaPoSean @costareports @edatpost @eilperin @mikedebonis",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "kelsey_snell",
+							"name": "Kelsey Snell",
+							"id": 82151660,
+							"id_str": "82151660",
+							"indices": [
+								34,
+								47
+							]
+						},
+						{
+							"screen_name": "WaPoSean",
+							"name": "Sean Sullivan",
+							"id": 169586280,
+							"id_str": "169586280",
+							"indices": [
+								48,
+								57
+							]
+						},
+						{
+							"screen_name": "costareports",
+							"name": "Robert Costa",
+							"id": 86129724,
+							"id_str": "86129724",
+							"indices": [
+								58,
+								71
+							]
+						},
+						{
+							"screen_name": "edatpost",
+							"name": "Ed O'Keefe",
+							"id": 16930125,
+							"id_str": "16930125",
+							"indices": [
+								72,
+								81
+							]
+						},
+						{
+							"screen_name": "eilperin",
+							"name": "Juliet Eilperin",
+							"id": 118747545,
+							"id_str": "118747545",
+							"indices": [
+								82,
+								91
+							]
+						},
+						{
+							"screen_name": "mikedebonis",
+							"name": "Mike DeBonis",
+							"id": 16753660,
+							"id_str": "16753660",
+							"indices": [
+								92,
+								104
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 13,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "1A1B1F",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/780778734202781696/plk8mMjX_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/780778734202781696/plk8mMjX_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/13524182/1397875542",
+		"profile_link_color": "2FC2EF",
+		"profile_sidebar_border_color": "181A1E",
+		"profile_sidebar_fill_color": "252429",
+		"profile_text_color": "666666",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 3123875698,
+		"id_str": "3123875698",
+		"name": "DAVID",
+		"screen_name": "DavidWeekender",
+		"location": "Bolton, England",
+		"description": "TV Personality @IbizaWeekender ☀️🌴💃🏻 For all PA's and enquiries contact info@Lucky7PR.com 👀 Snapchat David-Potts 👻",
+		"url": null,
+		"entities": {
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 29511,
+		"friends_count": 404,
+		"listed_count": 11,
+		"created_at": "Sat Mar 28 13:43:03 +0000 2015",
+		"favourites_count": 2345,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": true,
+		"verified": true,
+		"statuses_count": 2902,
+		"lang": "en",
+		"status": {
+			"created_at": "Tue Jul 18 02:07:50 +0000 2017",
+			"id": 887131768134008800,
+			"id_str": "887131768134008833",
+			"text": "Love you Julie x https://t.co/VUj2OMZI6d",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VUj2OMZI6d",
+						"expanded_url": "https://twitter.com/julieyoung1968/status/887100212988325888",
+						"display_url": "twitter.com/julieyoung1968…",
+						"indices": [
+							17,
+							40
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 887100212988325900,
+			"quoted_status_id_str": "887100212988325888",
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "C0DEED",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/844248191587569664/eJW-sd2B_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/844248191587569664/eJW-sd2B_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/3123875698/1491918721",
+		"profile_link_color": "1DA1F2",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": true,
+		"default_profile": true,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 16955870,
+		"id_str": "16955870",
+		"name": "The Upshot",
+		"screen_name": "UpshotNYT",
+		"location": "New York, NY",
+		"description": "Analytical journalism in words and graphics from The New York Times. Our newsletter: https://t.co/DclvAjp9cj",
+		"url": "https://t.co/BC1fmUfuVN",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "https://t.co/BC1fmUfuVN",
+						"expanded_url": "http://nytimes.com/upshot",
+						"display_url": "nytimes.com/upshot",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": [
+					{
+						"url": "https://t.co/DclvAjp9cj",
+						"expanded_url": "http://nyti.ms/18RPqny",
+						"display_url": "nyti.ms/18RPqny",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			}
+		},
+		"protected": false,
+		"followers_count": 198170,
+		"friends_count": 331,
+		"listed_count": 6695,
+		"created_at": "Fri Oct 24 20:06:44 +0000 2008",
+		"favourites_count": 387,
+		"utc_offset": -14400,
+		"time_zone": "Eastern Time (US & Canada)",
+		"geo_enabled": false,
+		"verified": true,
+		"statuses_count": 28049,
+		"lang": "en",
+		"status": {
+			"created_at": "Wed Jul 19 02:55:05 +0000 2017",
+			"id": 887506047715471400,
+			"id_str": "887506047715471360",
+			"text": "Short quiz for you: How many times has Trump insulted Putin on Twitter? Then check out the list. https://t.co/ZWzeVcTZuV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZWzeVcTZuV",
+						"expanded_url": "http://nyti.ms/2uH4ROz",
+						"display_url": "nyti.ms/2uH4ROz",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "9FBA02",
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/501362176284581889/32XpbbbU.png",
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/501362176284581889/32XpbbbU.png",
+		"profile_background_tile": true,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/458585408079556609/M81G8Dkd_normal.png",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/458585408079556609/M81G8Dkd_normal.png",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/16955870/1479143778",
+		"profile_link_color": "3B94D9",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "DDFFCC",
+		"profile_text_color": "333333",
+		"profile_use_background_image": false,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 4356430036,
+		"id_str": "4356430036",
+		"name": ")))David Cross(((",
+		"screen_name": "davidcrosss",
+		"location": "",
+		"description": "I am a group of your peers.",
+		"url": "https://t.co/wpH3LNJ5w3",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "https://t.co/wpH3LNJ5w3",
+						"expanded_url": "http://www.officialdavidcross.com",
+						"display_url": "officialdavidcross.com",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 91247,
+		"friends_count": 164,
+		"listed_count": 559,
+		"created_at": "Thu Dec 03 01:36:45 +0000 2015",
+		"favourites_count": 39979,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": true,
+		"verified": true,
+		"statuses_count": 4749,
+		"lang": "en",
+		"status": {
+			"created_at": "Tue Jul 18 22:33:40 +0000 2017",
+			"id": 887440260602486800,
+			"id_str": "887440260602486784",
+			"text": "RT @KevinMKruse: I'm sure General Doocy and Professor Kilmeade can walk you through all the nuances of it tomorrow morning, sir. https://t.…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KevinMKruse",
+						"name": "Kevin M. Kruse",
+						"id": 3060489838,
+						"id_str": "3060489838",
+						"indices": [
+							3,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Tue Jul 18 20:32:08 +0000 2017",
+				"id": 887409677235085300,
+				"id_str": "887409677235085312",
+				"text": "I'm sure General Doocy and Professor Kilmeade can walk you through all the nuances of it tomorrow morning, sir. https://t.co/nIZ8B2v5qf",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/nIZ8B2v5qf",
+							"expanded_url": "https://twitter.com/NBCNightlyNews/status/887358268464480256",
+							"display_url": "twitter.com/NBCNightlyNews…",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 887358268464480300,
+				"quoted_status_id_str": "887358268464480256",
+				"retweet_count": 122,
+				"favorite_count": 503,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": true,
+			"quoted_status_id": 887358268464480300,
+			"quoted_status_id_str": "887358268464480256",
+			"retweet_count": 122,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "C0DEED",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/849737071463985152/0n2uMg5A_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/849737071463985152/0n2uMg5A_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/4356430036/1483123293",
+		"profile_link_color": "1DA1F2",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": true,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 409983351,
+		"id_str": "409983351",
+		"name": "David Essex OBE",
+		"screen_name": "DavidEssexNews",
+		"location": "UK",
+		"description": "This is the OFFICIAL David Essex twitter page. Follow David to get up to the minute news and information about what he's doing.",
+		"url": "https://t.co/hOeWGkKkTE",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "https://t.co/hOeWGkKkTE",
+						"expanded_url": "http://www.davidessex.com",
+						"display_url": "davidessex.com",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 20364,
+		"friends_count": 4,
+		"listed_count": 63,
+		"created_at": "Fri Nov 11 13:44:38 +0000 2011",
+		"favourites_count": 14,
+		"utc_offset": 3600,
+		"time_zone": "London",
+		"geo_enabled": true,
+		"verified": true,
+		"statuses_count": 3229,
+		"lang": "en",
+		"status": {
+			"created_at": "Tue Jul 18 13:42:14 +0000 2017",
+			"id": 887306518940483600,
+			"id_str": "887306518940483584",
+			"text": "@024204f9508c465 Hope it goes well Cazz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "024204f9508c465",
+						"name": "Carol Morton",
+						"id": 3184460555,
+						"id_str": "3184460555",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 887239799949676500,
+			"in_reply_to_status_id_str": "887239799949676544",
+			"in_reply_to_user_id": 3184460555,
+			"in_reply_to_user_id_str": "3184460555",
+			"in_reply_to_screen_name": "024204f9508c465",
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "07295C",
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000182037389/H1ZpCzCB.jpeg",
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000182037389/H1ZpCzCB.jpeg",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/764922683641528321/T0liKkS6_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/764922683641528321/T0liKkS6_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/409983351/1392905513",
+		"profile_link_color": "009999",
+		"profile_sidebar_border_color": "000000",
+		"profile_sidebar_fill_color": "EFEFEF",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 221185711,
+		"id_str": "221185711",
+		"name": "Dave Chang",
+		"screen_name": "davidchang",
+		"location": "New York, NY",
+		"description": "retroactively retired from @momofuku since 2004",
+		"url": "https://t.co/Ngniolgnw0",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "https://t.co/Ngniolgnw0",
+						"expanded_url": "http://www.momofuku.com",
+						"display_url": "momofuku.com",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 242105,
+		"friends_count": 57,
+		"listed_count": 2454,
+		"created_at": "Mon Nov 29 23:55:08 +0000 2010",
+		"favourites_count": 2193,
+		"utc_offset": -10800,
+		"time_zone": "Atlantic Time (Canada)",
+		"geo_enabled": true,
+		"verified": true,
+		"statuses_count": 2670,
+		"lang": "en",
+		"status": {
+			"created_at": "Mon Jul 17 23:51:57 +0000 2017",
+			"id": 887097573043040300,
+			"id_str": "887097573043040256",
+			"text": "Best way to root for @redskins is to not root for them: Stop supporting, don't watch games, force Sydney to sell \n\nhttps://t.co/brvZMT9FJT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Redskins",
+						"name": "Washington Redskins",
+						"id": 36375662,
+						"id_str": "36375662",
+						"indices": [
+							21,
+							30
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/brvZMT9FJT",
+						"expanded_url": "http://www.espn.com/nfl/story/_/id/20089406/trade-kirk-cousins-washington-redskins-blew-faces-hard-truths-nfl-2017-training-camp",
+						"display_url": "espn.com/nfl/story/_/id…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "C0DEED",
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/177196180/momofuku-logo-small.jpg",
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/177196180/momofuku-logo-small.jpg",
+		"profile_background_tile": true,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/525693579537424384/PzNCbWxG_normal.jpeg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/525693579537424384/PzNCbWxG_normal.jpeg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/221185711/1480514101",
+		"profile_link_color": "0084B4",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 400086050,
+		"id_str": "400086050",
+		"name": "David_Suchet",
+		"screen_name": "David_Suchet",
+		"location": "",
+		"description": "British character actor, best known for the little Belgian, Poirot, but many other characters too.",
+		"url": null,
+		"entities": {
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 41929,
+		"friends_count": 95,
+		"listed_count": 460,
+		"created_at": "Fri Oct 28 13:47:56 +0000 2011",
+		"favourites_count": 39,
+		"utc_offset": -25200,
+		"time_zone": "Pacific Time (US & Canada)",
+		"geo_enabled": false,
+		"verified": true,
+		"statuses_count": 4053,
+		"lang": "en",
+		"status": {
+			"created_at": "Thu Jul 13 11:42:18 +0000 2017",
+			"id": 885464398365691900,
+			"id_str": "885464398365691904",
+			"text": "@mcguiresdeli Oh Dear I will be in Bath. 😊",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mcguiresdeli",
+						"name": "McGuire's Fine Foods",
+						"id": 3057142186,
+						"id_str": "3057142186",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": 880055629829812200,
+			"in_reply_to_status_id_str": "880055629829812224",
+			"in_reply_to_user_id": 3057142186,
+			"in_reply_to_user_id_str": "3057142186",
+			"in_reply_to_screen_name": "mcguiresdeli",
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "C0DEED",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/1615773202/David_Suchet_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/1615773202/David_Suchet_normal.jpg",
+		"profile_link_color": "1DA1F2",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": true,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 15046200,
+		"id_str": "15046200",
+		"name": "KarenDavid",
+		"screen_name": "KarenDavid",
+		"location": "London/Los Angeles/Toronto",
+		"description": "Jasmine in OUAT, The Tiger Hunter, Cold Feet, Galavant. https://t.co/v4hBqA6STD https://t.co/HtprKYkv7A",
+		"url": "https://t.co/4992EGqqDV",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "https://t.co/4992EGqqDV",
+						"expanded_url": "http://www.karendavid.com",
+						"display_url": "karendavid.com",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": [
+					{
+						"url": "https://t.co/v4hBqA6STD",
+						"expanded_url": "http://www.imdb.me/karendavid",
+						"display_url": "imdb.me/karendavid",
+						"indices": [
+							56,
+							79
+						]
+					},
+					{
+						"url": "https://t.co/HtprKYkv7A",
+						"expanded_url": "http://www.instagram.com/KarenDavidOfficial",
+						"display_url": "instagram.com/KarenDavidOffi…",
+						"indices": [
+							80,
+							103
+						]
+					}
+				]
+			}
+		},
+		"protected": false,
+		"followers_count": 45543,
+		"friends_count": 8535,
+		"listed_count": 519,
+		"created_at": "Sun Jun 08 12:00:46 +0000 2008",
+		"favourites_count": 65359,
+		"utc_offset": -25200,
+		"time_zone": "Pacific Time (US & Canada)",
+		"geo_enabled": false,
+		"verified": true,
+		"statuses_count": 54392,
+		"lang": "en",
+		"status": {
+			"created_at": "Wed Jul 19 04:53:56 +0000 2017",
+			"id": 887535956202356700,
+			"id_str": "887535956202356736",
+			"text": "RT @EsbergerEmma: @KarenDavid When you vote, make sure you register &amp; get to the \"you have cast your vote\" screen😘💙 not just the \"vote\" but…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EsbergerEmma",
+						"name": "Emma Esberger",
+						"id": 736647865188126700,
+						"id_str": "736647865188126721",
+						"indices": [
+							3,
+							16
+						]
+					},
+					{
+						"screen_name": "KarenDavid",
+						"name": "KarenDavid",
+						"id": 15046200,
+						"id_str": "15046200",
+						"indices": [
+							18,
+							29
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Wed Jul 19 04:44:15 +0000 2017",
+				"id": 887533518322094100,
+				"id_str": "887533518322094080",
+				"text": "@KarenDavid When you vote, make sure you register &amp; get to the \"you have cast your vote\" screen😘💙 not just the \"vot… https://t.co/uw9Wom3W6E",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "KarenDavid",
+							"name": "KarenDavid",
+							"id": 15046200,
+							"id_str": "15046200",
+							"indices": [
+								0,
+								11
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/uw9Wom3W6E",
+							"expanded_url": "https://twitter.com/i/web/status/887533518322094080",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": 15046200,
+				"in_reply_to_user_id_str": "15046200",
+				"in_reply_to_screen_name": "KarenDavid",
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 8,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "BF1238",
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/688984617185984512/yN7E8MaY.jpg",
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/688984617185984512/yN7E8MaY.jpg",
+		"profile_background_tile": true,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/873523022279442432/hDSOc0bS_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/873523022279442432/hDSOc0bS_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/15046200/1496447321",
+		"profile_link_color": "BF1238",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "EFEFEF",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 22783783,
+		"id_str": "22783783",
+		"name": "Above the Law",
+		"screen_name": "atlblog",
+		"location": "New York, NY",
+		"description": "The widely read legal website of @BreakingMedia. Tweets by D. Lat (DL), E. Mystal (EM), S. Zaretsky (SZ), J. Patrice (JP), K. Rubino (KR). tips@abovethelaw.com",
+		"url": "http://t.co/aHQnPoorRo",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "http://t.co/aHQnPoorRo",
+						"expanded_url": "http://abovethelaw.com",
+						"display_url": "abovethelaw.com",
+						"indices": [
+							0,
+							22
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 138096,
+		"friends_count": 1359,
+		"listed_count": 2978,
+		"created_at": "Wed Mar 04 15:05:22 +0000 2009",
+		"favourites_count": 3246,
+		"utc_offset": -14400,
+		"time_zone": "Eastern Time (US & Canada)",
+		"geo_enabled": false,
+		"verified": true,
+		"statuses_count": 43215,
+		"lang": "en",
+		"status": {
+			"created_at": "Wed Jul 19 04:02:22 +0000 2017",
+			"id": 887522978841468900,
+			"id_str": "887522978841468930",
+			"text": "Just How Big Has Norton Rose Gotten? https://t.co/MoJtkiJzda",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MoJtkiJzda",
+						"expanded_url": "http://bit.ly/2uGrKl1",
+						"display_url": "bit.ly/2uGrKl1",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "EAE9E6",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/473816860962459648/sMkUDqCa_normal.png",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/473816860962459648/sMkUDqCa_normal.png",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/22783783/1401801603",
+		"profile_link_color": "FF0000",
+		"profile_sidebar_border_color": "000000",
+		"profile_sidebar_fill_color": "2A2D32",
+		"profile_text_color": "666666",
+		"profile_use_background_image": false,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 2820447172,
+		"id_str": "2820447172",
+		"name": "David O'Sullivan",
+		"screen_name": "EUAmbUS",
+		"location": "Washington, DC",
+		"description": "European Union Ambassador to the United States",
+		"url": "http://t.co/C6HUhnMAM3",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "http://t.co/C6HUhnMAM3",
+						"expanded_url": "http://www.euintheus.org/who-we-are/ambassadors-corner/",
+						"display_url": "euintheus.org/who-we-are/amb…",
+						"indices": [
+							0,
+							22
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 6219,
+		"friends_count": 251,
+		"listed_count": 211,
+		"created_at": "Thu Oct 09 20:03:02 +0000 2014",
+		"favourites_count": 147,
+		"utc_offset": -14400,
+		"time_zone": "Eastern Time (US & Canada)",
+		"geo_enabled": true,
+		"verified": true,
+		"statuses_count": 2957,
+		"lang": "en",
+		"status": {
+			"created_at": "Tue Jul 18 22:04:26 +0000 2017",
+			"id": 887432901649993700,
+			"id_str": "887432901649993730",
+			"text": "Today's wow number: @RepErikPaulsen said between 2006-2014 number of #Minnesota jobs tied to direct European investment increased by 30%",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Minnesota",
+						"indices": [
+							69,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RepErikPaulsen",
+						"name": "Rep. Erik Paulsen",
+						"id": 17513304,
+						"id_str": "17513304",
+						"indices": [
+							20,
+							35
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "C0DEED",
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/532974377352970240/YkpfobFm.jpeg",
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/532974377352970240/YkpfobFm.jpeg",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/844637859827060736/zMOTjeXR_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/844637859827060736/zMOTjeXR_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/2820447172/1415981758",
+		"profile_link_color": "3B94D9",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 58233846,
+		"id_str": "58233846",
+		"name": "Nicol Ann David",
+		"screen_name": "NicolDavid",
+		"location": "Amsterdam",
+		"description": "Professional Squash Player",
+		"url": "https://t.co/XbHRkl2nNP",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "https://t.co/XbHRkl2nNP",
+						"expanded_url": "http://www.nicoldavid.com",
+						"display_url": "nicoldavid.com",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 225472,
+		"friends_count": 245,
+		"listed_count": 365,
+		"created_at": "Sun Jul 19 16:37:53 +0000 2009",
+		"favourites_count": 206,
+		"utc_offset": 7200,
+		"time_zone": "Amsterdam",
+		"geo_enabled": false,
+		"verified": true,
+		"statuses_count": 4367,
+		"lang": "en",
+		"status": {
+			"created_at": "Wed Jul 19 05:20:13 +0000 2017",
+			"id": 887542572322652200,
+			"id_str": "887542572322652160",
+			"text": "RT @JamesSimpson7: Full bus of keen Malaysian Squash players ready for a massive day of doubles training! 😴😴😉...well I'm excited anyway 🙊 #…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JamesSimpson7",
+						"name": "James Simpson",
+						"id": 300684463,
+						"id_str": "300684463",
+						"indices": [
+							3,
+							17
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Wed Jul 19 05:17:49 +0000 2017",
+				"id": 887541967915073500,
+				"id_str": "887541967915073536",
+				"text": "Full bus of keen Malaysian Squash players ready for a massive day of doubles training! 😴😴😉...well I'm excited anywa… https://t.co/tG01KmH4Gm",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/tG01KmH4Gm",
+							"expanded_url": "https://twitter.com/i/web/status/887541967915073536",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 10,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "1A1B1F",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/700996057526833152/1liLvDhL_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/700996057526833152/1liLvDhL_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/58233846/1456438100",
+		"profile_link_color": "2FC2EF",
+		"profile_sidebar_border_color": "181A1E",
+		"profile_sidebar_fill_color": "252429",
+		"profile_text_color": "666666",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 215187970,
+		"id_str": "215187970",
+		"name": "DARTH VADER",
+		"screen_name": "isDARTHVADER",
+		"location": "",
+		"description": "The Official Twitter account of actor Dave Prowse (the man behind the mask of Darth Vader in the original Star Wars trilogy). See website for autographs -",
+		"url": "https://t.co/gicaJ2tAeV",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "https://t.co/gicaJ2tAeV",
+						"expanded_url": "http://www.darthvader-starwars.com",
+						"display_url": "darthvader-starwars.com",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 144039,
+		"friends_count": 41,
+		"listed_count": 829,
+		"created_at": "Sat Nov 13 06:42:18 +0000 2010",
+		"favourites_count": 52,
+		"utc_offset": -18000,
+		"time_zone": "Central Time (US & Canada)",
+		"geo_enabled": false,
+		"verified": true,
+		"statuses_count": 204,
+		"lang": "en",
+		"status": {
+			"created_at": "Mon Jul 17 03:25:59 +0000 2017",
+			"id": 886789049637367800,
+			"id_str": "886789049637367812",
+			"text": "Get one signed exclusively for you at https://t.co/cXmYOHqDLx https://t.co/Ynezd66oqd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cXmYOHqDLx",
+						"expanded_url": "http://shop.darthvader-starwars.com",
+						"display_url": "shop.darthvader-starwars.com",
+						"indices": [
+							38,
+							61
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 886788882607374300,
+						"id_str": "886788882607374336",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DE6BylKUAAACDRa.png",
+						"media_url_https": "https://pbs.twimg.com/media/DE6BylKUAAACDRa.png",
+						"url": "https://t.co/Ynezd66oqd",
+						"display_url": "pic.twitter.com/Ynezd66oqd",
+						"expanded_url": "https://twitter.com/isDARTHVADER/status/886789049637367812/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 476,
+								"h": 592,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 476,
+								"h": 592,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 476,
+								"h": 592,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 886788882607374300,
+						"id_str": "886788882607374336",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DE6BylKUAAACDRa.png",
+						"media_url_https": "https://pbs.twimg.com/media/DE6BylKUAAACDRa.png",
+						"url": "https://t.co/Ynezd66oqd",
+						"display_url": "pic.twitter.com/Ynezd66oqd",
+						"expanded_url": "https://twitter.com/isDARTHVADER/status/886789049637367812/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 476,
+								"h": 592,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 476,
+								"h": 592,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 476,
+								"h": 592,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 886788900395532300,
+						"id_str": "886788900395532289",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DE6BznbVwAEJxpb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DE6BznbVwAEJxpb.jpg",
+						"url": "https://t.co/Ynezd66oqd",
+						"display_url": "pic.twitter.com/Ynezd66oqd",
+						"expanded_url": "https://twitter.com/isDARTHVADER/status/886789049637367812/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 98,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "131516",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+		"profile_background_tile": true,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/458760170290442240/z4_Ldr0C_normal.jpeg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/458760170290442240/z4_Ldr0C_normal.jpeg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/215187970/1488866776",
+		"profile_link_color": "000000",
+		"profile_sidebar_border_color": "EEEEEE",
+		"profile_sidebar_fill_color": "EFEFEF",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": true,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 1674241980,
+		"id_str": "1674241980",
+		"name": "David Meyler",
+		"screen_name": "DavidMeyler7",
+		"location": "United Kingdom",
+		"description": "Professional footballer @HullCity and @FAIreland",
+		"url": "https://t.co/yIVfqXI0i1",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "https://t.co/yIVfqXI0i1",
+						"expanded_url": "https://www.youtube.com/channel/UC6ZRCjYDX0X6raAH0z7E8Sw",
+						"display_url": "youtube.com/channel/UC6ZRC…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 130131,
+		"friends_count": 450,
+		"listed_count": 259,
+		"created_at": "Thu Aug 15 23:20:03 +0000 2013",
+		"favourites_count": 1,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": true,
+		"verified": true,
+		"statuses_count": 10350,
+		"lang": "en",
+		"status": {
+			"created_at": "Tue Jul 18 20:41:29 +0000 2017",
+			"id": 887412026443788300,
+			"id_str": "887412026443788292",
+			"text": "F8TAL KNOCKOUT GAME 1 VS @DjMaRiiO_90 https://t.co/fsKMwtZccd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DjMaRiiO_90",
+						"name": "DjMaRiiO",
+						"id": 202535200,
+						"id_str": "202535200",
+						"indices": [
+							25,
+							37
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fsKMwtZccd",
+						"expanded_url": "https://youtu.be/cBefkYKT394",
+						"display_url": "youtu.be/cBefkYKT394",
+						"indices": [
+							38,
+							61
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 57,
+			"favorite_count": 502,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "000000",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/887376510486806528/epMrvge9_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/887376510486806528/epMrvge9_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/1674241980/1499546916",
+		"profile_link_color": "981CEB",
+		"profile_sidebar_border_color": "000000",
+		"profile_sidebar_fill_color": "000000",
+		"profile_text_color": "000000",
+		"profile_use_background_image": false,
+		"has_extended_profile": true,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 13774902,
+		"id_str": "13774902",
+		"name": "David Sessions",
+		"screen_name": "davidsess",
+		"location": "Boston, MA",
+		"description": "Historian @BostonCollege and @ENS_Ulm (starting '17). European intellectual history, science, technology, & labor. Former @NYUniversity, @TheDailyBeast, @Slate.",
+		"url": "https://t.co/ItDzUMeUSa",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "https://t.co/ItDzUMeUSa",
+						"expanded_url": "https://hdavidsessions.wordpress.com",
+						"display_url": "hdavidsessions.wordpress.com",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 4545,
+		"friends_count": 2782,
+		"listed_count": 203,
+		"created_at": "Thu Feb 21 15:53:25 +0000 2008",
+		"favourites_count": 2282,
+		"utc_offset": -14400,
+		"time_zone": "Eastern Time (US & Canada)",
+		"geo_enabled": true,
+		"verified": true,
+		"statuses_count": 15804,
+		"lang": "en",
+		"status": {
+			"created_at": "Wed Jul 19 05:10:06 +0000 2017",
+			"id": 887540025545674800,
+			"id_str": "887540025545674752",
+			"text": "RT @donnabrazile: Breaking news: Saudi King Abdullah has given women the right to vote for first time in nationwide local elections, due in…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "donnabrazile",
+						"name": "Donna Brazile",
+						"id": 60919240,
+						"id_str": "60919240",
+						"indices": [
+							3,
+							16
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Sep 25 16:00:14 +0000 2011",
+				"id": 117991810172850180,
+				"id_str": "117991810172850177",
+				"text": "Breaking news: Saudi King Abdullah has given women the right to vote for first time in nationwide local elections, due in 2015. Congrats!",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 362,
+				"favorite_count": 28,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 362,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "911C01",
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3514734/stripes_ad.jpg",
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3514734/stripes_ad.jpg",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/863065490863792129/JrWrUxtC_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/863065490863792129/JrWrUxtC_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/13774902/1398219034",
+		"profile_link_color": "911C01",
+		"profile_sidebar_border_color": "000000",
+		"profile_sidebar_fill_color": "EBEBEB",
+		"profile_text_color": "000000",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 976969338,
+		"id_str": "976969338",
+		"name": "Dave Joyce",
+		"screen_name": "RepDaveJoyce",
+		"location": " Washington, DC",
+		"description": "Father, husband, and former prosecutor proudly representing #OH14",
+		"url": "http://t.co/w7lVGg29p2",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "http://t.co/w7lVGg29p2",
+						"expanded_url": "http://joyce.house.gov/",
+						"display_url": "joyce.house.gov",
+						"indices": [
+							0,
+							22
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 12124,
+		"friends_count": 2602,
+		"listed_count": 433,
+		"created_at": "Wed Nov 28 21:12:14 +0000 2012",
+		"favourites_count": 65,
+		"utc_offset": -14400,
+		"time_zone": "Eastern Time (US & Canada)",
+		"geo_enabled": true,
+		"verified": true,
+		"statuses_count": 3173,
+		"lang": "en",
+		"status": {
+			"created_at": "Wed Jul 19 01:29:26 +0000 2017",
+			"id": 887484494885908500,
+			"id_str": "887484494885908484",
+			"text": "The full House Appropriations Committee just approved the FY 18 bill, which included full funding for the Great Lakes Restoration Initiative",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "C0DEED",
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/826352899/2442ee127585d3e5ee5f1eb72cc6ae3b.jpeg",
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/826352899/2442ee127585d3e5ee5f1eb72cc6ae3b.jpeg",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/471370204589469696/jzOCXHSW_normal.jpeg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/471370204589469696/jzOCXHSW_normal.jpeg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/976969338/1494534964",
+		"profile_link_color": "0084B4",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": false,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 118845216,
+		"id_str": "118845216",
+		"name": "David A. Clarke, Jr.",
+		"screen_name": "SheriffClarke",
+		"location": "Milwaukee, WI",
+		"description": "Sheriff Milwaukee Co. MA Security Studies NPS. NRA Member. CPAC Charlton Heston Courage Under Fire Award. NYPD/NYC Police Benevolent Asso. Person of the Year",
+		"url": "https://t.co/BYcOPeyDQQ",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "https://t.co/BYcOPeyDQQ",
+						"expanded_url": "http://ThePeoplesSheriff.com",
+						"display_url": "ThePeoplesSheriff.com",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 706935,
+		"friends_count": 100,
+		"listed_count": 3312,
+		"created_at": "Mon Mar 01 22:39:39 +0000 2010",
+		"favourites_count": 2760,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": true,
+		"verified": true,
+		"statuses_count": 10989,
+		"lang": "en",
+		"status": {
+			"created_at": "Mon Jul 17 15:56:58 +0000 2017",
+			"id": 886978038113738800,
+			"id_str": "886978038113738752",
+			"text": "RT @realDonaldTrump: With all of its phony unnamed sources &amp; highly slanted &amp; even fraudulent reporting, #Fake News is DISTORTING DEMOCRACY…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Fake",
+						"indices": [
+							113,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							3,
+							19
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Jul 16 11:15:10 +0000 2017",
+				"id": 886544734788997100,
+				"id_str": "886544734788997125",
+				"text": "With all of its phony unnamed sources &amp; highly slanted &amp; even fraudulent reporting, #Fake News is DISTORTING DEMOCRACY in our country!",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Fake",
+							"indices": [
+								92,
+								97
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 23278,
+				"favorite_count": 92586,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 23278,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "131516",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+		"profile_background_tile": true,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/778569891641110528/mg-O96xI_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/778569891641110528/mg-O96xI_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/118845216/1472658617",
+		"profile_link_color": "009999",
+		"profile_sidebar_border_color": "EEEEEE",
+		"profile_sidebar_fill_color": "EFEFEF",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 240427862,
+		"id_str": "240427862",
+		"name": "David B. McKinley",
+		"screen_name": "RepMcKinley",
+		"location": "",
+		"description": "Proud to serve the First District of West Virginia in the U.S. House of Representatives. Member of the Energy and Commerce Committee. Staff-run account",
+		"url": "http://t.co/5H1HsbP76e",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "http://t.co/5H1HsbP76e",
+						"expanded_url": "http://mckinley.house.gov/",
+						"display_url": "mckinley.house.gov",
+						"indices": [
+							0,
+							22
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 23024,
+		"friends_count": 1078,
+		"listed_count": 754,
+		"created_at": "Wed Jan 19 22:29:00 +0000 2011",
+		"favourites_count": 502,
+		"utc_offset": -18000,
+		"time_zone": "Central Time (US & Canada)",
+		"geo_enabled": true,
+		"verified": true,
+		"statuses_count": 4123,
+		"lang": "en",
+		"status": {
+			"created_at": "Tue Jul 18 22:02:46 +0000 2017",
+			"id": 887432485344354300,
+			"id_str": "887432485344354307",
+			"text": "RT @SpeakerRyan: The House just observed a moment of silence in memory of NYPD Officer Miosotis Familia who was killed at her command post…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SpeakerRyan",
+						"name": "Paul Ryan",
+						"id": 18916432,
+						"id_str": "18916432",
+						"indices": [
+							3,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Tue Jul 18 21:55:35 +0000 2017",
+				"id": 887430675854504000,
+				"id_str": "887430675854503937",
+				"text": "The House just observed a moment of silence in memory of NYPD Officer Miosotis Familia who was killed at her comman… https://t.co/MaFkiZUxhp",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/MaFkiZUxhp",
+							"expanded_url": "https://twitter.com/i/web/status/887430675854503937",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 196,
+				"favorite_count": 1036,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 196,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "C0DEED",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/803988876188585985/LD2ROMf1_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/803988876188585985/LD2ROMf1_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/240427862/1460062363",
+		"profile_link_color": "0084B4",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": false,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 15816652,
+		"id_str": "15816652",
+		"name": "DavidSanborn",
+		"screen_name": "DavidSanborn",
+		"location": "New York, New York",
+		"description": "I'm just a guy who likes to play the saxophone.",
+		"url": "http://t.co/QhVmslwPus",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "http://t.co/QhVmslwPus",
+						"expanded_url": "http://www.davidsanborn.com",
+						"display_url": "davidsanborn.com",
+						"indices": [
+							0,
+							22
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 17544,
+		"friends_count": 20,
+		"listed_count": 328,
+		"created_at": "Tue Aug 12 01:14:08 +0000 2008",
+		"favourites_count": 0,
+		"utc_offset": -25200,
+		"time_zone": "Pacific Time (US & Canada)",
+		"geo_enabled": true,
+		"verified": true,
+		"statuses_count": 315,
+		"lang": "en",
+		"status": {
+			"created_at": "Tue Jul 04 19:41:00 +0000 2017",
+			"id": 882323375271620600,
+			"id_str": "882323375271620610",
+			"text": "Tonight July 4th, @mobettabrown, @hypnoticbrass &amp; I will take the stage @TheSeaport, part of the @BlueNoteNYC Jazz… https://t.co/Fh2EKICX4f",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mobettabrown",
+						"name": "Maurice  Brown",
+						"id": 16679896,
+						"id_str": "16679896",
+						"indices": [
+							18,
+							31
+						]
+					},
+					{
+						"screen_name": "hypnoticbrass",
+						"name": "Hypnotic Brass",
+						"id": 52600991,
+						"id_str": "52600991",
+						"indices": [
+							33,
+							47
+						]
+					},
+					{
+						"screen_name": "TheSeaport",
+						"name": "South Street Seaport",
+						"id": 82807429,
+						"id_str": "82807429",
+						"indices": [
+							76,
+							87
+						]
+					},
+					{
+						"screen_name": "BlueNoteNYC",
+						"name": "Blue Note Jazz Club",
+						"id": 70740491,
+						"id_str": "70740491",
+						"indices": [
+							101,
+							113
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Fh2EKICX4f",
+						"expanded_url": "https://twitter.com/i/web/status/882323375271620610",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "27485069891a7938",
+				"url": "https://api.twitter.com/1.1/geo/id/27485069891a7938.json",
+				"place_type": "admin",
+				"name": "New York",
+				"full_name": "New York, NY",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.255641,
+								40.495865
+							],
+							[
+								-73.699793,
+								40.495865
+							],
+							[
+								-73.699793,
+								40.91533
+							],
+							[
+								-74.255641,
+								40.91533
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 66,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "3F6070",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+		"profile_background_tile": true,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/458747211401007106/vk-Nc51r_normal.jpeg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/458747211401007106/vk-Nc51r_normal.jpeg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/15816652/1398209027",
+		"profile_link_color": "004A99",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "EFEFEF",
+		"profile_text_color": "333333",
+		"profile_use_background_image": false,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 14561327,
+		"id_str": "14561327",
+		"name": "DHH",
+		"screen_name": "dhh",
+		"location": "Chicago, USA",
+		"description": "Creator of Ruby on Rails, Founder & CTO at Basecamp (formerly 37signals), NYT Best-selling author of REWORK and REMOTE, and Le Mans class-winning racing driver.",
+		"url": "http://t.co/IaAsahpjsQ",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "http://t.co/IaAsahpjsQ",
+						"expanded_url": "http://david.heinemeierhansson.com",
+						"display_url": "david.heinemeierhansson.com",
+						"indices": [
+							0,
+							22
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 259048,
+		"friends_count": 123,
+		"listed_count": 8836,
+		"created_at": "Sun Apr 27 20:19:25 +0000 2008",
+		"favourites_count": 2149,
+		"utc_offset": -18000,
+		"time_zone": "Central Time (US & Canada)",
+		"geo_enabled": true,
+		"verified": true,
+		"statuses_count": 35121,
+		"lang": "en",
+		"status": {
+			"created_at": "Wed Jul 19 01:10:37 +0000 2017",
+			"id": 887479758321311700,
+			"id_str": "887479758321311749",
+			"text": "“Putin Didn’t Do It” by @davepell https://t.co/qRbwyiCbUr https://t.co/aCLrX2DVb5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "davepell",
+						"name": "Dave Pell",
+						"id": 224,
+						"id_str": "224",
+						"indices": [
+							24,
+							33
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qRbwyiCbUr",
+						"expanded_url": "https://medium.com/@davepell/putin-didnt-do-it-7265b327125e?source=twitterShare-54bcbf647830-1500426626",
+						"display_url": "medium.com/@davepell/puti…",
+						"indices": [
+							34,
+							57
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 887479754852638700,
+						"id_str": "887479754852638720",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DFD2Io1XoAA7d6Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFD2Io1XoAA7d6Y.jpg",
+						"url": "https://t.co/aCLrX2DVb5",
+						"display_url": "pic.twitter.com/aCLrX2DVb5",
+						"expanded_url": "https://twitter.com/dhh/status/887479758321311749/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 604,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 845,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 845,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 887479754852638700,
+						"id_str": "887479754852638720",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DFD2Io1XoAA7d6Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFD2Io1XoAA7d6Y.jpg",
+						"url": "https://t.co/aCLrX2DVb5",
+						"display_url": "pic.twitter.com/aCLrX2DVb5",
+						"expanded_url": "https://twitter.com/dhh/status/887479758321311749/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 604,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 845,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 845,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "C0DEED",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/2556368541/alng5gtlmjhrdlr3qxqv_normal.jpeg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/2556368541/alng5gtlmjhrdlr3qxqv_normal.jpeg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/14561327/1398347760",
+		"profile_link_color": "1DA1F2",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": true,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	}
+]
