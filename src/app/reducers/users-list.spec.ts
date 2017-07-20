@@ -8,6 +8,12 @@ describe('reducers', () => {
         name: '',
         screen_name: '',
         profile_image_url: ''
+      }],
+      tweets: [{
+        name: '',
+        screen_name: '',
+        profile_image_url: '',
+        text: '',
       }]
     },  {
       type: '[UsersList] Load UsersList'
@@ -17,6 +23,12 @@ describe('reducers', () => {
         name: '',
         screen_name: '',
         profile_image_url: ''
+      }],
+      tweets: [{
+        name: '',
+        screen_name: '',
+        profile_image_url: '',
+        text: '',
       }]
     });
   });
