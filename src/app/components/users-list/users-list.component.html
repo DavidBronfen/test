@@ -1,8 +1,8 @@
 <div class="user-list">
   <md-list>
     <h3 md-subheader>Twitter Users search result</h3>
-    <md-list-item *ngFor="let user of users">
+    <div *ngFor="let user of users">
       <app-user [user]=user></app-user>
-    </md-list-item>
+    </div>
   </md-list>
 </div>
