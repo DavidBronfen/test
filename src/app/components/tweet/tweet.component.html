@@ -1,0 +1,15 @@
+<md-card-header>
+  <div md-card-avatar class="avatar">
+    <div *ngIf="tweet.profile_image_url; else placeholder">
+      <img md-card-avatar src="{{tweet.profile_image_url}}" alt="{{tweet.name}}s profile image">
+    </div>
+
+    <ng-template #placeholder>
+      <md-icon>account_circle</md-icon>
+    </ng-template>
+  </div>
+  <md-card-title>{{tweet.name}} @{{tweet.screen_name}}</md-card-title>
+</md-card-header>
+<md-card-content>
+  <p>{{tweet.text}}</p>
+</md-card-content>

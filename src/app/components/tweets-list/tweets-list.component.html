@@ -1,0 +1,7 @@
+<div class="user-tweets">
+  <md-card class="tweet-card" *ngFor="let tweet of tweets">
+    <app-tweet [tweet]=tweet></app-tweet>
+  </md-card>
+
+  <button md-raised-button color="primary">Load more tweets</button>
+</div>
