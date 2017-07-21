@@ -13,7 +13,7 @@ import * as fromRoot from '../../reducers';
   templateUrl: './tweets-list.component.html',
   styleUrls: ['./tweets-list.component.scss']
 })
-export class TweetsListComponent implements OnInit {
+export class TweetsListComponent {
 
   public tweets$: Observable<ITweet[]>;
   private errorMessage: string;
@@ -22,8 +22,8 @@ export class TweetsListComponent implements OnInit {
       this.tweets$ = this.store.select(fromRoot.getTweetsListState);
   }
 
-  ngOnInit() {
-    this.store.dispatch(new tweetsListAction.LoadTweetsListAction())
-  }
+  // ngOnInit() {
+  //   this.store.dispatch(new tweetsListAction.LoadTweetsListAction())
+  // }
 
 }
