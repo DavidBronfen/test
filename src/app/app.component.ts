@@ -11,7 +11,10 @@ export class AppComponent {
   private showTweetList = false;
 
   updateUserList(res) {
-    console.log('res', res);
     this.showUserList = res;
+  }
+
+  updateTweetList(res) {
+    this.showTweetList = res;
   }
 }
