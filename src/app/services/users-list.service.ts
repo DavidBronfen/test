@@ -4,6 +4,7 @@ import { Observable } from 'rxjs/Observable';
 import 'rxjs/add/operator/catch';
 import 'rxjs/add/operator/do';
 import 'rxjs/add/operator/map';
+import 'rxjs/add/operator/debounceTime';
 
 import { IUser } from '../models/user';
 
@@ -14,7 +15,7 @@ export class UsersListService {
 
   constructor(private _http: Http) { }
 
-  getUsers(): Observable<IUser[]> {
+  getUsers(keyWord: String): Observable<IUser[]> {
     return this._http.get(this._usersURL)
     .map((response: Response) => <IUser[]> response.json())
     .do(response => console.log(response))

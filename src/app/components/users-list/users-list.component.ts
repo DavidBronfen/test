@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 import { Observable } from 'rxjs/Observable';
 import { Store } from '@ngrx/store';
 
@@ -13,17 +13,12 @@ import * as fromRoot from '../../reducers';
   templateUrl: './users-list.component.html',
   styleUrls: ['./users-list.component.scss']
 })
-export class UsersListComponent implements OnInit {
+export class UsersListComponent {
 
   public users$: Observable<IUser[]>;
   private errorMessage: string;
 
   constructor(private store: Store<fromRoot.State>) {
-      this.users$ = this.store.select(fromRoot.getUsersListState);
+    this.users$ = this.store.select(fromRoot.getUsersListState);
   }
-
-  ngOnInit() {
-    this.store.dispatch(new usersListAction.LoadUsersListAction())
-  }
-
 }

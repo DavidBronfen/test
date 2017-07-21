@@ -2,14 +2,15 @@
 
 <div class="search-container">
   <md-input-container color="primary">
-    <input mdInput placeholder="Search for tweeter user" value="">
+    <input mdInput (keyup)=searchUsers($event) placeholder="Search for twitter user" value="">
+    <!-- <input type=text mdInput (keyup)=searchUsers() [formControl]="firstNameControl" placeholder="Search for twitter user"> -->
   </md-input-container>
 
-  <a md-raised-button color="primary" class="search-button" routerLink=".">
+  <a md-raised-button color="primary" class="search-button" (click)=displayUsers($event) routerLink=".">
     <md-icon color="accent">search</md-icon>
   </a>
 
-  <div *ngIf="true" class="search-result">
+  <div *ngIf="false" class="search-result">
     <md-list-item *ngFor="let user of users">
       <a>
         <p>{{user}}</p>

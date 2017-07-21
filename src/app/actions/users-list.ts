@@ -8,7 +8,7 @@ export const LOAD_USERS_LIST_SUCCESS = '[UsersList] Load UsersList Success';
 export class LoadUsersListAction implements Action {
   readonly type = LOAD_USERS_LIST;
 
-  constructor() { }
+  constructor(public payload: String) { }
 }
 
 export class LoadUsersListSuccessAction implements Action {
