@@ -11,3 +11,16 @@ var client = new Twitter({
   access_token_secret: 'O8bQ8Fj93TPzs89Wz4Gt9SGvGtXKREz7Z5TEUzWhlY7jr'
 });
 
+// setup the app middlware
+app.use(cors());
+
+// setup the api
+app.get('/search-users/:userName', (req, res) => {
+  client.get(`users/search.json?q=${req.params.userName}&page=1&count=20`, (error, users, response) => {
+    if (error) {
+      console.log('Something went wrong!');
+    }
+
+    res.json(users);
+  });
+});
