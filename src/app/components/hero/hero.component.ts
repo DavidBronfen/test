@@ -31,7 +31,7 @@ export class HeroComponent {
     this.users$ = this.store.select(fromRoot.getUsersListState);
 
     this.term.valueChanges
-     .debounceTime(500)
+     .debounceTime(300)
      .subscribe(searchWord => {
        if (searchWord) {
          this.store.dispatch(new usersListAction.LoadUsersListAction(searchWord));

@@ -17,7 +17,6 @@ export class UsersListService {
   getUsers(keyWord: String): Observable<IUser[]> {
     return this._http.get(this._usersURL + keyWord)
     .map((response: Response) => <IUser[]> response.json())
-    .do(response => console.log(response))
     .catch(this.handleError);
   }
 
