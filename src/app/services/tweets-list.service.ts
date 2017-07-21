@@ -10,12 +10,12 @@ import { ITweet } from '../models/tweet';
 @Injectable()
 export class TweetsListService {
 
-  private _tweetsURL = 'http://localhost:3000/get-user-tweets/3363000639';
+  private _tweetsURL = 'http://localhost:3000/get-user-tweets/';
 
   constructor(private _http: Http) { }
 
-  getTweets(): Observable<ITweet[]> {
-    return this._http.get(this._tweetsURL)
+  getTweets(uid: String): Observable<ITweet[]> {
+    return this._http.get(this._tweetsURL+ uid)
     .map((response: Response) => <ITweet[]> response.json())
     .catch(this.handleError);
   }

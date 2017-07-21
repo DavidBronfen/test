@@ -8,7 +8,7 @@ export const LOAD_TWEETS_LIST_SUCCESS = '[TweetsList] Load TweetsList Success';
 export class LoadTweetsListAction implements Action {
   readonly type = LOAD_TWEETS_LIST;
 
-  constructor() { }
+  constructor(public payload: String) { }
 }
 
 export class LoadTweetsListSuccessAction implements Action {

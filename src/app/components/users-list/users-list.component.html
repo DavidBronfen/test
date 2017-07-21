@@ -2,7 +2,7 @@
   <md-list>
     <h3 md-subheader>Twitter Users search result</h3>
     <div *ngFor="let user of users$ | async">
-      <app-user [user]=user></app-user>
+      <app-user [user]=user (click)=displayUserTweet(user.id)></app-user>
     </div>
   </md-list>
 </div>

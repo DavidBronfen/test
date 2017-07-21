@@ -17,6 +17,6 @@ export class TweetsListEffects {
   @Effect()
   loadTweetsList$: Observable<Action>= this.actions$
     .ofType(tweetsList.LOAD_TWEETS_LIST)
-    .switchMap(() => this.tweetsListService.getTweets())
+    .switchMap((uid) => this.tweetsListService.getTweets(uid.payload))
     .map(data => new tweetsList.LoadTweetsListSuccessAction(data));
 }
