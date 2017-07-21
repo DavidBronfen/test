@@ -2,7 +2,7 @@ import 'hammerjs';
 
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { JsonpModule, HttpModule } from '@angular/http';
+import { HttpModule } from '@angular/http';
 
 import { MaterialModule } from '@angular/material';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -39,7 +39,6 @@ import { TweetsListService } from './services/tweets-list.service';
     BrowserModule,
     MaterialModule,
     BrowserAnimationsModule,
-    JsonpModule,
     HttpModule,
     StoreModule.provideStore(reducer),
     StoreDevtoolsModule.instrumentOnlyWithExtension(),

@@ -1,5 +1,5 @@
 import { TestBed, inject } from '@angular/core/testing';
-import { HttpModule, Jsonp, BaseRequestOptions, Response, ResponseOptions } from '@angular/http';
+import { HttpModule, Http, BaseRequestOptions, Response, ResponseOptions } from '@angular/http';
 import { MockBackend } from '@angular/http/testing';
 
 import { UsersListService } from './users-list.service';
@@ -11,9 +11,9 @@ describe('UsersListService', () => {
       providers: [
         UsersListService,
         {
-          provide: Jsonp,
+          provide: Http,
           useFactory: (mockBackend, options) => {
-            return new Jsonp(mockBackend, options);
+            return new Http(mockBackend, options);
           },
           deps: [ MockBackend, BaseRequestOptions ]
         },
