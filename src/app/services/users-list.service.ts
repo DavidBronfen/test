@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Http, Response } from '@angular/http';
+import { Http, Response, Headers, RequestOptions } from '@angular/http';
 import { Observable } from 'rxjs/Observable';
 import 'rxjs/add/operator/catch';
 import 'rxjs/add/operator/do';
@@ -10,12 +10,12 @@ import { IUser } from '../models/user';
 @Injectable()
 export class UsersListService {
 
-  private _usersURL = 'data/users.json';
+  private _usersURL = 'http://localhost:3000/search-users/';
 
   constructor(private _http: Http) { }
 
   getUsers(): Observable<IUser[]> {
-    return this._http.get(this._usersURL)
+    return this._http.get(this._usersURL + 'nirgn')
     .map((response: Response) => <IUser[]> response.json())
     .do(response => console.log(response))
     .catch(this.handleError);

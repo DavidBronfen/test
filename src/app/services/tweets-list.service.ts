@@ -10,7 +10,7 @@ import { ITweet } from '../models/tweet';
 @Injectable()
 export class TweetsListService {
 
-  private _tweetsURL = 'data/tweets.json';
+  private _tweetsURL = 'http://localhost:3000/get-user-tweets/3363000639';
 
   constructor(private _http: Http) { }
 
