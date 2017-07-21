@@ -15,7 +15,7 @@ export class TweetsListService {
   constructor(private _http: Http) { }
 
   getTweets(uid: String): Observable<ITweet[]> {
-    return this._http.get(this._tweetsURL+ uid)
+    return this._http.get(this._tweetsURL + uid)
     .map((response: Response) => <ITweet[]> response.json())
     .catch(this.handleError);
   }
