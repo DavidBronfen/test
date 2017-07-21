@@ -24,8 +24,8 @@ export class HeroComponent {
   title = 'Welcome to FED Test';
   public users$: Observable<IUser[]>;
   private errorMessage: string;
-  private term = new FormControl();
-  private showSearchResult = false;
+  public term = new FormControl();
+  public showSearchResult = false;
 
   constructor(private store: Store<fromRoot.State>) {
     this.users$ = this.store.select(fromRoot.getUsersListState);

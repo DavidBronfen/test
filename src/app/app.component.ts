@@ -7,8 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
-  private showUserList = false;
-  private showTweetList = false;
+  public showUserList = false;
+  public showTweetList = false;
 
   updateUserList(res) {
     this.showUserList = res;
