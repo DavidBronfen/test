@@ -11,6 +11,7 @@ var client = new Twitter({
   access_token_secret: 'O8bQ8Fj93TPzs89Wz4Gt9SGvGtXKREz7Z5TEUzWhlY7jr'
 });
 
+
 // setup the app middlware
 app.use(cors());
 
@@ -23,4 +24,20 @@ app.get('/search-users/:userName', (req, res) => {
 
     res.json(users);
   });
+});
+
+app.get('/get-user-tweets/:id', (req, res) => {
+  client.get(`/statuses/user_timeline.json?user_id=${req.params.id}&count=50`, (error, tweets, response) => {
+    if (error) {
+      console.log('Something went wrong!');
+    }
+
+    res.json(tweets);
+  });
+  console.log('get-user-tweets');
+  console.log('id: ', req.params.id);
+});
+
+app.listen(3000, () => {
+  console.log('listening on http://localhost:3000')
 });

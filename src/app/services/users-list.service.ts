@@ -15,7 +15,7 @@ export class UsersListService {
   constructor(private _http: Http) { }
 
   getUsers(): Observable<IUser[]> {
-    return this._http.get(this._usersURL + 'david')
+    return this._http.get(this._usersURL + 'nirgn')
     .map((response: Response) => <IUser[]> response.json())
     .do(response => console.log(response))
     .catch(this.handleError);
