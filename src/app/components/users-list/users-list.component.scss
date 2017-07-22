@@ -1,7 +1,13 @@
-.user-list {
-  border-right: 1px solid;
+/deep/
+app-users-list {
+  width: 30%;
+  .user-list {
+    border-right: 1px solid;
 
-  h3 {
-    font-size: 18px;
+    .mat-list {
+      h3 {
+        font-size: 18px;
+      }
+    }
   }
 }
