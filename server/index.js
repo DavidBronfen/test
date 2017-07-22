@@ -34,8 +34,16 @@ app.get('/get-user-tweets/:id', (req, res) => {
 
     res.json(tweets);
   });
-  console.log('get-user-tweets');
-  console.log('id: ', req.params.id);
+});
+
+app.get('/get-more-tweets/:userId/:lastTweetId', (req, res) => {
+  client.get(`/statuses/user_timeline.json?user_id=${req.params.userId}&since_id=${req.params.lastTweetId}&count=50`, (error, tweets, response) => {
+    if (error) {
+      console.log('Something went wrong!');
+    }
+
+    res.json(tweets);
+  });
 });
 
 app.listen(3000, () => {

@@ -17,6 +17,6 @@ export class UsersListEffects {
   @Effect()
   loadUsersList$: Observable<Action>= this.actions$
     .ofType(usersList.LOAD_USERS_LIST)
-    .switchMap(() => this.usersListService.getUsers())
+    .switchMap((keyWord) => this.usersListService.getUsers(keyWord.payload))
     .map(data => new usersList.LoadUsersListSuccessAction(data));
 }

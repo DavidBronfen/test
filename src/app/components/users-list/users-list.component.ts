@@ -1,10 +1,10 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Output, EventEmitter } from '@angular/core';
 import { Observable } from 'rxjs/Observable';
 import { Store } from '@ngrx/store';
 
 import { IUser } from '../../models/user';
-import { UsersListService } from '../../services/users-list.service';
 
+import * as tweetsListAction from '../../actions/tweets-list';
 import * as usersListAction from '../../actions/users-list';
 import * as fromRoot from '../../reducers';
 
@@ -13,7 +13,10 @@ import * as fromRoot from '../../reducers';
   templateUrl: './users-list.component.html',
   styleUrls: ['./users-list.component.scss']
 })
-export class UsersListComponent implements OnInit {
+export class UsersListComponent {
+
+  @Output('updateTweetListEvent')
+  updateTweetListEvent = new EventEmitter<boolean>();
 
   public users$: Observable<IUser[]>;
   private errorMessage: string;
@@ -22,8 +25,10 @@ export class UsersListComponent implements OnInit {
       this.users$ = this.store.select(fromRoot.getUsersListState);
   }
 
-  ngOnInit() {
-    this.store.dispatch(new usersListAction.LoadUsersListAction())
+  displayUserTweets(id) {
+    this.updateTweetListEvent.emit(true);
+    this.store.dispatch(new tweetsListAction.LoadTweetsListAction(id));
+    this.store.dispatch(new usersListAction.UpdateSelectedUserAction(id));
   }
 
 }

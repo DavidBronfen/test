@@ -7,4 +7,14 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  public showUserList = false;
+  public showTweetList = false;
+
+  updateUserList(res) {
+    this.showUserList = res;
+  }
+
+  updateTweetList(res) {
+    this.showTweetList = res;
+  }
 }

@@ -2,14 +2,19 @@
 
 <div class="search-container">
   <md-input-container color="primary">
-    <input mdInput placeholder="Search for tweeter user" value="">
+    <input mdInput [formControl]="term" placeholder="Search for tweeter user" value="">
   </md-input-container>
 
-  <a md-raised-button color="primary" class="search-button" routerLink=".">
+  <a md-raised-button color="primary" class="search-button" (click)=displayUsers($event) routerLink=".">
     <md-icon color="accent">search</md-icon>
   </a>
 
-  <div *ngIf="false" class="search-result">
-    <span *ngFor="let user of users">{{user}}</span>
+  <div *ngIf="showSearchResult" class="search-result">
+    <md-list-item *ngFor="let user of users$ | async | slice:0:10">
+      <a>
+        <p>{{user.screen_name}}</p>
+      </a>
+      <div class="divider"></div>
+    </md-list-item>
   </div>
 </div>
