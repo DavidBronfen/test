@@ -16,14 +16,21 @@ import * as fromRoot from '../../reducers';
 export class TweetsListComponent {
 
   public tweets$: Observable<ITweet[]>;
-  private errorMessage: string;
+  public selectedUser: String;
+  private errorMessage: String;
 
   constructor(private store: Store<fromRoot.State>) {
       this.tweets$ = this.store.select(fromRoot.getTweetsListState);
+      this.store.select(fromRoot.getSelectedUserState).subscribe(
+        res => this.selectedUser = res
+      );
   }
 
-  // ngOnInit() {
-  //   this.store.dispatch(new tweetsListAction.LoadTweetsListAction())
-  // }
+  loadMoreTweets(tweets$) {
+    tweets$.subscribe(t => this.store.dispatch(new tweetsListAction.LoadMoreTweetsAction({
+      userUid: this.selectedUser,
+      lastTweetId: t.length
+    })));
+  }
 
 }

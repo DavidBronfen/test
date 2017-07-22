@@ -3,5 +3,5 @@
     <app-tweet [tweet]=tweet></app-tweet>
   </md-card>
 
-  <button md-raised-button color="primary">Load more tweets</button>
+  <button md-raised-button color="primary" (click)="loadMoreTweets(tweets$); false">Load more tweets</button>
 </div>
