@@ -19,4 +19,10 @@ export class TweetsListEffects {
     .ofType(tweetsList.LOAD_TWEETS_LIST)
     .switchMap((uid) => this.tweetsListService.getTweets(uid.payload))
     .map(data => new tweetsList.LoadTweetsListSuccessAction(data));
+
+  @Effect()
+  loadMoreTweets$: Observable<Action>= this.actions$
+    .ofType(tweetsList.LOAD_MORE_TWEETS)
+    .switchMap((payload) => this.tweetsListService.getMoreTweets(payload.payload))
+    .map(data => new tweetsList.LoadMoreTweetsSuccessAction(data));
 }
