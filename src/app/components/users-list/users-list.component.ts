@@ -25,7 +25,7 @@ export class UsersListComponent {
       this.users$ = this.store.select(fromRoot.getUsersListState);
   }
 
-  displayUserTweet(id) {
+  displayUserTweets(id) {
     this.updateTweetListEvent.emit(true);
     this.store.dispatch(new tweetsListAction.LoadTweetsListAction(id));
     this.store.dispatch(new usersListAction.UpdateSelectedUserAction(id));

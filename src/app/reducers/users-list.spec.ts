@@ -4,11 +4,14 @@ describe('reducers', () => {
   it('Shoud handle users list action', () => {
     let state;
     state = reducer({
-      users: [{
-        name: '',
-        screen_name: '',
-        profile_image_url: ''
-      }],
+      users: {
+        users: [{
+          name: '',
+          screen_name: '',
+          profile_image_url: ''
+        }],
+        selectedUser: '',
+      },
       tweets: [{
         text: '',
         user: {
@@ -21,11 +24,14 @@ describe('reducers', () => {
       type: '[UsersList] Load UsersList'
     });
     expect(state).toEqual({
-      users: [{
-        name: '',
-        screen_name: '',
-        profile_image_url: ''
-      }],
+      users: {
+        users: [{
+          name: '',
+          screen_name: '',
+          profile_image_url: ''
+        }],
+        selectedUser: '',
+      },
       tweets: [{
         text: '',
         user: {

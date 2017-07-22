@@ -1,10 +1,13 @@
 import { IUser } from '../models/user';
 import * as usersList from '../actions/users-list';
 
-export type State = {
-  users: IUser[];
-  selectedUser: String;
+interface IState {
+ users: IUser[];
+ selectedUser: String;
 }
+
+export type State = IState;
+
 const initialState: State = {
   users: [{
     name: '',
