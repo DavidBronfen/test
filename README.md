@@ -1,4 +1,4 @@
-# David Tweeter try
+# David Twitter try
 
 [![Build Status][travis-image]][travis-url]
 
