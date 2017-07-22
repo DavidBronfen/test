@@ -1,8 +1,10 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
-import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { ReactiveFormsModule } from '@angular/forms';
+import { StoreModule } from '@ngrx/store';
+import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 
 import { HeroComponent } from './hero.component';
+import { reducer } from '../../reducers';
 
 describe('HeroComponent', () => {
   let component: HeroComponent;
@@ -10,9 +12,12 @@ describe('HeroComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      imports: [ ReactiveFormsModule ],
       declarations: [
         HeroComponent
+      ],
+      imports: [
+        StoreModule.provideStore(reducer),
+        ReactiveFormsModule
       ],
       schemas: [
         CUSTOM_ELEMENTS_SCHEMA
