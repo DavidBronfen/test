@@ -13,6 +13,7 @@ const initialState: State = {
     name: '',
     screen_name: '',
     profile_image_url: '',
+    location: '',
   }],
   selectedUser: '',
 };

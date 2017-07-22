@@ -26,6 +26,7 @@ describe('UserComponent', () => {
       'name': 'Nir Galon',
       'screen_name': 'nirgalon',
       'profile_image_url': 'https://api.adorable.io/avatars/285/nir.png',
+      'location': 'RG',
     };
     fixture.detectChanges();
   });

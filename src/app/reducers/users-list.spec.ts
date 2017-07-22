@@ -8,7 +8,8 @@ describe('reducers', () => {
         users: [{
           name: '',
           screen_name: '',
-          profile_image_url: ''
+          profile_image_url: '',
+          location: '',
         }],
         selectedUser: '',
       },
@@ -18,6 +19,7 @@ describe('reducers', () => {
           name: '',
           screen_name: '',
           profile_image_url: '',
+          location: '',
         }
       }]
     },  {
@@ -28,7 +30,8 @@ describe('reducers', () => {
         users: [{
           name: '',
           screen_name: '',
-          profile_image_url: ''
+          profile_image_url: '',
+          location: '',
         }],
         selectedUser: '',
       },
@@ -38,6 +41,7 @@ describe('reducers', () => {
           name: '',
           screen_name: '',
           profile_image_url: '',
+          location: '',
         }
       }]
     });

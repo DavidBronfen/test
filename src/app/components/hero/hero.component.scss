@@ -1,7 +1,6 @@
 /deep/ app-hero {
   width: 60%;
   margin: 40px auto;
-  height: 250px;
   display: block;
 
   h1 {
@@ -43,8 +42,8 @@
       width: 100%;
       border: 1px solid rgba(0, 0, 0, 0.12);
       border-bottom: none;
-      position: absolute;
-      top: 2.5em;
+      position: relative;
+      top: -1.35em;
 
       p {
         padding: 10px 5px;
