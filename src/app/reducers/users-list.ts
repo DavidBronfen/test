@@ -24,6 +24,7 @@ export function reducer(state = initialState, action: usersList.Actions): State 
       const newState = { users: action.payload };
 
       return {
+        // Return sliced array only the properties.
         ...state,
         ...newState,
       };
